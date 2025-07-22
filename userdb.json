@@ -15,12 +15,9 @@
     },
     {
         "device_id": "a10cb44b9b084356",
-        "username": "vip1",
+        "username": "user3",
         "password": "2394",
         "expirydate": "23-07-2025",
-        "Allowoffline": true
+        "Allowoffline": false
     }
-
-
-    
 ]
